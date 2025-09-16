@@ -6,7 +6,7 @@ __pycache__/
 # C extensions
 *.so
 # Added thing which should be ignored
-.artifacts/
+.artifacts
 # Distribution / packaging
 .Python
 build/
